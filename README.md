@@ -1,4 +1,4 @@
-=3D Object Definitions Parser Analyser
+# 3D Object Definitions Parser Analyser
 
 The purpose of the project was to parse information from a text using flex. In this case, data about 3D objects were parsed.
 
